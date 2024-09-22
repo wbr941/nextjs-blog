@@ -1,7 +1,7 @@
-# Next.js + Contentlayer
+# 个人博客
 
-A template with Next.js 13 app dir, Contentlayer, Tailwind CSS and dark mode.
+使用Vercel模板搭建的个人博客
 
-https://next-contentlayer.vercel.app
+Vercel模版名称：nextjs-contentlayer
 
-
+Vercel模版 GitHub仓库地址：https://github.com/shadcn/next-contentlayer
